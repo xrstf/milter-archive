@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "55rheq1aUcRzzNP+zlaZbVNL3gc=",
+			"path": "github.com/gosimple/slug",
+			"revision": "e78d39397ba41d2c33d9615044ef93eca8a309d8",
+			"revisionTime": "2019-04-12T07:57:51Z"
+		},
+		{
+			"checksumSHA1": "vtMHtJoah4SL2FvnQAXIsHt9mu0=",
+			"path": "github.com/phalaaxx/milter",
+			"revision": "ddacab85d2fa3e5259615c3996b0364a605d747e",
+			"revisionTime": "2018-09-20T07:44:32Z"
+		},
+		{
+			"checksumSHA1": "pvg8L4xN+zO9HLJislpVeHPPLjM=",
+			"path": "github.com/rainycape/unidecode",
+			"revision": "cb7f23ec59bec0d61b19c56cd88cee3d0cc1870c",
+			"revisionTime": "2015-09-07T02:38:54Z"
+		}
+	],
+	"rootPath": "github.com/xrstf/milter-archive"
+}
